@@ -4,19 +4,19 @@ One Soul at a Time
 
 Faith • Hope • Charity
 
----
+Contact
 
-MASTER CATALOG v1.0
+Phone: +60 11-6068 4989
+
+Product Collections
 
 Folder A — Branding & Marketing
 
 - Home Page
 - About Us
 - Gallery
-- Contact Us
-- Order Information
-
----
+- Contact
+- QR Payment
 
 Folder B — Bun Collection
 
@@ -32,9 +32,7 @@ Folder B — Bun Collection
 - Polo Pineapple Bun
 - Coffee Mexico Bun
 
----
-
-Folder D — Tiramisu Collection
+Folder C — Tiramisu Collection
 
 - Original
 - Chocolate
@@ -42,18 +40,14 @@ Folder D — Tiramisu Collection
 - Strawberry
 - Blueberry
 
----
-
-Folder E — Loaf Cakes
+Folder D — Loaf Cakes
 
 - Banana Cake
 - Butter Cake
 - Lemon Cake
 - Carrot Cake
 
----
-
-Folder F — Japanese Cotton Cheesecake
+Folder E — Japanese Cotton Cheesecake
 
 - Original
 - Chocolate
@@ -61,9 +55,7 @@ Folder F — Japanese Cotton Cheesecake
 - Blueberry
 - Strawberry
 
----
-
-Folder G — Chiffon Collection
+Folder F — Chiffon Collection
 
 - Pandan
 - Coffee
@@ -72,16 +64,6 @@ Folder G — Chiffon Collection
 - Fruit Cocktail
 - Blueberry Cheese
 
----
+Website Status
 
-Removed / On Hold
-
-- Japanese Bread Collection
-- Cinnamon Roll
-- Square Tiramisu
-
----
-
-Future Expansion
-
-Reserved for future products and collections.
+Planning Stage
